@@ -1,0 +1,263 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.11.27)  27 NOV 2026 13:52
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/jerem/OneDrive/Documents/GitHub/cspc-capstone-template/main.tex
+(c:/Users/jerem/OneDrive/Documents/GitHub/cspc-capstone-template/main.tex
+LaTeX2e <2026-11-01>
+L3 programming layer <2026-09-09>
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2026-06-04 v1.4n Standard LaTeX document class
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2026-06-04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count273
+\c@section=\count274
+\c@subsection=\count275
+\c@subsubsection=\count276
+\c@paragraph=\count277
+\c@subparagraph=\count278
+\c@figure=\count279
+\c@table=\count280
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+Package: fontspec 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count281
+\l__fontspec_language_int=\count282
+\l__fontspec_strnum_int=\count283
+\l__fontspec_tmp_int=\count284
+\l__fontspec_tmpa_int=\count285
+\l__fontspec_tmpb_int=\count286
+\l__fontspec_tmpc_int=\count287
+\l__fontspec_em_int=\count288
+\l__fontspec_emdef_int=\count289
+\l__fontspec_strong_int=\count290
+\l__fontspec_strongdef_int=\count291
+\l__fontspec_tmpa_dim=\dimen151
+\l__fontspec_tmpb_dim=\dimen152
+\l__fontspec_tmpc_dim=\dimen153
+ (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2026-07-31 v2.2a Standard LaTeX package
+)
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+) (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/11/15 v6.2 Page Geometry
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2026-06-01 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2026/10/27 v1.7 ifvtex compatibility package
+
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2026/11/17 v1.0h TeX engine tests
+))
+\Gm@cnth=\count292
+\Gm@cntv=\count293
+\c@Gm@tempcnt=\count294
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks18
+
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-xete
+x.def
+File: l3backend-xetex.def 2026-09-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count295
+\g__pdfannot_backend_int=\count296
+\g__pdfannot_backend_link_int=\count297
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
+LaTeX Font Info:    Redeclaring math accent \check on input line 20.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 2
+0.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+20.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 20.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+[1
+
+] (main.aux)
+ ***********
+LaTeX2e <2026-11-01>
+L3 programming layer <2026-09-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3581 strings out of 402429
+ 106932 string characters out of 5433152
+ 558091 words of memory out of 5000000
+ 32851 multiletter control sequences out of 15000+600000
+ 631385 words of font info for 69 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 60i,5n,93p,311b,249s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (1 page).
