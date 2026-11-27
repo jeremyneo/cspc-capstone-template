@@ -1,0 +1,62 @@
+% !TeX root = ../main.tex
+
+\newcommand{\institutionalheader}[1]{%
+    \begin{minipage}[b]{\headwidth}
+        \singlespacing
+        \setlength{\parskip}{0pt}
+        \setlength{\parindent}{0pt}
+
+        % Institutional logos
+        \noindent
+        \includegraphics[height=0.5in]{config/images/cspc-logo.pdf}%
+        \hfill
+        \includegraphics[height=0.5in]{config/images/ccs-logo.pdf}%
+        \par
+
+        % Display page number only when provided
+        \if\relax\detokenize{#1}\relax
+        \else
+            \nointerlineskip
+            \hbox to \headwidth{%
+                \hfill
+                \normalfont\fontsize{12bp}{14bp}\selectfont
+                \strut #1%
+            }%
+        \fi
+    \end{minipage}%
+}
+
+% Unnumbered header
+\fancypagestyle{unnumbered}{%
+    \fancyhf{}
+    \fancyhead[C]{\institutionalheader{}}
+    \renewcommand{\headrulewidth}{0.02in}
+    \renewcommand{\footrulewidth}{0pt}
+}
+
+% Numbered header
+\fancypagestyle{numbered}{%
+    \fancyhf{}
+    \fancyhead[C]{\institutionalheader{\thepage}}
+    \renewcommand{\headrulewidth}{0.02in}
+    \renewcommand{\footrulewidth}{0pt}
+}
+
+% Preliminary with page number
+\fancypagestyle{preliminary}{%
+    \fancyhf{}
+    \fancyhead[C]{\institutionalheader{}}
+    \preliminaryfooter
+    \renewcommand{\headrulewidth}{0.02in}
+    \renewcommand{\footrulewidth}{0pt}
+}
+
+% Preliminary without page number
+\fancypagestyle{preliminaryhidden}{%
+    \fancyhf{}
+    \fancyhead[C]{\institutionalheader{}}
+    \renewcommand{\headrulewidth}{0.02in}
+    \renewcommand{\footrulewidth}{0pt}
+}
+
+\pagestyle{unnumbered}
