@@ -4,3 +4,33 @@
     \bfseries
     #1\par}%
 }
+
+\newcommand{\centerBold}[1]{%
+    {\centering\bfseries #1\par}%
+}
+
+\newcommand{\centerBoldUnderline}[1]{%
+    {\centering\bfseries\underline{#1}\par}%
+}
+
+\newcommand{\indentParagraph}[1]{%
+    \par
+    {%
+        \setlength{\parindent}{0.5in}%
+        \hyphenpenalty=10000
+        \exhyphenpenalty=10000
+        \setlength{\emergencystretch}{3em}%
+        \indent #1\par
+    }%
+}
+
+\newcommand{\centerText}[1]{%
+    \par
+    {\centering #1\par}%
+}
+
+\newcommand{\horizontalLine}{%
+    \par
+    \noindent\rule{\linewidth}{0.02in}%
+    \par
+}

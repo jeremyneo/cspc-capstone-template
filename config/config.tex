@@ -2,6 +2,14 @@
 \usepackage{setspace}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
+\usepackage[none]{hyphenat}
+
+\usepackage[
+    hidelinks,
+    bookmarks=true,
+    bookmarksopen=true,
+    bookmarksnumbered=true
+]{hyperref}
 
 \usepackage[
     top=1in,
@@ -12,6 +20,8 @@
     headsep=0.15in,
     footskip=0.5in
 ]{geometry}
+
+\hbadness=10000
 
 % Unnumbered layout
 \newcommand{\unnumberedlayout}{%
