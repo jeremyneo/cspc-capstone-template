@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.11.27)  27 NOV 2026 19:26
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.11.27)  27 NOV 2026 19:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,11 +507,134 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 13.
 )
+(manuscript/preliminary_pages/panel-of-examiners.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [2
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(97.56493pt, 625.13507pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=625.13507pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-61.42882pt
+* \headheight=57.81621pt
+* \headsep=28.90755pt
+* \topskip=12.0pt
+* \footskip=36.135pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+)
+(manuscript/preliminary_pages/dedication.tex
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [3
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(97.56493pt, 625.13507pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=625.13507pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-61.42882pt
+* \headheight=57.81621pt
+* \headsep=28.90755pt
+* \topskip=12.0pt
+* \footskip=36.135pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+)
+(manuscript/preliminary_pages/acknowledgments.tex
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [4
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(97.56493pt, 625.13507pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=625.13507pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-61.42882pt
+* \headheight=57.81621pt
+* \headsep=28.90755pt
+* \topskip=12.0pt
+* \footskip=36.135pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+)
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [5
 
 ] (main.aux)
  ***********
@@ -519,15 +642,15 @@ LaTeX2e <2026-11-01>
 L3 programming layer <2026-09-09>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C12B4273EF4718E2680BF352F1FE5EA7;214.
+(rerunfilecheck)             Checksum: F0D9C03F5D49EE417B57C192F8354B86;583.
  ) 
 Here is how much of TeX's memory you used:
- 11457 strings out of 402429
- 228553 string characters out of 5433152
- 692755 words of memory out of 5000000
- 40610 multiletter control sequences out of 15000+600000
+ 11477 strings out of 402429
+ 229500 string characters out of 5433152
+ 693189 words of memory out of 5000000
+ 40621 multiletter control sequences out of 15000+600000
  631737 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  76i,16n,96p,519b,537s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (2 pages).
+Output written on main.pdf (5 pages).
