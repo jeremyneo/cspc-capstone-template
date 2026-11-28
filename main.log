@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.11.27)  28 NOV 2026 10:14
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.11.27)  28 NOV 2026 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -179,6 +179,30 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedRightParindent=\skip110
 \JustifyingParindent=\skip111
 )
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip112
+\aftertitleunit=\skip113
+\ttl@plus=\dimen163
+\ttl@minus=\dimen164
+\ttl@toksa=\toks21
+\titlewidth=\dimen165
+\titlewidthlast=\dimen166
+\titlewidthfirst=\dimen167
+)
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip114
+\enit@outerparindent=\dimen168
+\enit@toks=\toks22
+\enit@inbox=\box56
+\enit@count@id=\count296
+\enitdp@description=\count297
+)
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2026-11-03 v7.01t Hypertext links for LaTeX
 
@@ -228,22 +252,22 @@ Package: gettitlestring 2026/10/27 v1.6a Cleanup title references (HO)
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2026-10-27 v3.17 Key value format for package options (HO)
 ))
-\c@section@level=\count296
+\c@section@level=\count298
 )
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
 ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen163
-\Hy@linkcounter=\count297
-\Hy@pagecounter=\count298
+\@linkdim=\dimen169
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
  (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2026-11-03 v7.01t Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count299
+\Hy@SavedSpaceFactor=\count301
  (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2026-11-03 v7.01t Hyperref: PDF Unicode definition (HO)
 )
@@ -258,14 +282,14 @@ Package hyperref Info: Plain pages OFF on input line 4214.
 Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4466.
-\c@Hy@tempcnt=\count300
+\c@Hy@tempcnt=\count302
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4805.
-\XeTeXLinkMargin=\dimen164
+\XeTeXLinkMargin=\dimen170
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -275,9 +299,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count301
-\Field@Width=\dimen165
-\Fld@charsize=\dimen166
+\Fld@menulength=\count303
+\Field@Width=\dimen171
+\Fld@charsize=\dimen172
 Package hyperref Info: Hyper figures OFF on input line 6091.
 Package hyperref Info: Link nesting OFF on input line 6096.
 Package hyperref Info: Hyper index ON on input line 6099.
@@ -285,19 +309,19 @@ Package hyperref Info: backreferencing OFF on input line 6106.
 Package hyperref Info: Link coloring OFF on input line 6111.
 Package hyperref Info: Link coloring with OCG OFF on input line 6116.
 Package hyperref Info: PDF/A mode OFF on input line 6121.
-\Hy@abspage=\count302
-\c@Item=\count303
-\c@Hfootnote=\count304
+\Hy@abspage=\count304
+\c@Item=\count305
+\c@Hfootnote=\count306
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2026-11-03 v7.01t Hyperref driver for XeTeX
-\pdfm@box=\box55
-\c@Hy@AnnotLevel=\count305
-\HyField@AnnotCount=\count306
-\Fld@listcount=\count307
-\c@bookmark@seq@number=\count308
+\pdfm@box=\box57
+\c@Hy@AnnotLevel=\count307
+\HyField@AnnotCount=\count308
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -310,7 +334,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip112
+\Hy@SectionHShift=\skip115
 )
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/11/15 v6.2 Page Geometry
@@ -318,38 +342,39 @@ Package: geometry 2026/11/15 v6.2 Page Geometry
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2026/10/27 v1.7 ifvtex compatibility package
 )
-\Gm@cnth=\count309
-\Gm@cntv=\count310
-\c@Gm@tempcnt=\count311
-\Gm@bindingoffset=\dimen167
-\Gm@wd@mp=\dimen168
-\Gm@odd@mp=\dimen169
-\Gm@even@mp=\dimen170
-\Gm@layoutwidth=\dimen171
-\Gm@layoutheight=\dimen172
-\Gm@layouthoffset=\dimen173
-\Gm@layoutvoffset=\dimen174
-\Gm@dimlist=\toks21
+\Gm@cnth=\count311
+\Gm@cntv=\count312
+\c@Gm@tempcnt=\count313
+\Gm@bindingoffset=\dimen173
+\Gm@wd@mp=\dimen174
+\Gm@odd@mp=\dimen175
+\Gm@even@mp=\dimen176
+\Gm@layoutwidth=\dimen177
+\Gm@layoutheight=\dimen178
+\Gm@layouthoffset=\dimen179
+\Gm@layoutvoffset=\dimen180
+\Gm@dimlist=\toks23
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box56
-\TP@holdbox=\box57
-\TPHorizModule=\dimen175
-\TPVertModule=\dimen176
-\TP@margin=\dimen177
-\TP@absmargin=\dimen178
+\TP@textbox=\box58
+\TP@holdbox=\box59
+\TPHorizModule=\dimen181
+\TPVertModule=\dimen182
+\TP@margin=\dimen183
+\TP@absmargin=\dimen184
 
 Grid set 16 x 16 = 38.39343pt x 49.68562pt
-\TPboxrulesize=\dimen179
-\TP@ox=\dimen180
-\TP@oy=\dimen181
-\TP@tbargs=\toks22
+\TPboxrulesize=\dimen185
+\TP@ox=\dimen186
+\TP@oy=\dimen187
+\TP@tbargs=\toks24
 TextBlockOrigin set to 0pt x 0pt
 )
 TextBlockOrigin set to 0bp x 0bp
+) (config/footer.tex) (config/header.tex) (config/commands.tex
 
 Package fontspec Info: 
 (fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
@@ -383,14 +408,14 @@ ext;"
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
 text;"
 
-) (config/footer.tex) (config/header.tex) (config/commands.tex)
+)
 (manuscript/variables.tex)
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-xete
 x.def
 File: l3backend-xetex.def 2026-09-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count312
-\g__pdfannot_backend_int=\count313
-\g__pdfannot_backend_link_int=\count314
+\g__graphics_track_int=\count314
+\g__pdfannot_backend_int=\count315
+\g__pdfannot_backend_link_int=\count316
 ) (main.aux)
 \openout1 = `main.aux'.
 
@@ -501,8 +526,8 @@ Package hyperref Info: Link coloring OFF on input line 8.
 * \textheight=650.43001pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-65.04256pt
-* \headheight=54.2025pt
+* \topmargin=-75.88261pt
+* \headheight=65.04256pt
 * \headsep=10.84006pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -534,8 +559,8 @@ Package hyperref Info: Link coloring OFF on input line 8.
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -552,8 +577,6 @@ Package hyperref Info: Link coloring OFF on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
-(manuscript/preliminary_pages/approval-page.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
@@ -561,7 +584,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
  [1
 
 
-]
+])
+(manuscript/preliminary_pages/approval-page.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: letterpaper
@@ -576,8 +600,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -606,6 +630,7 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [2
 
+
 ])
 (manuscript/preliminary_pages/panel-of-examiners.tex
 *geometry* verbose mode - [ newgeometry ] result:
@@ -622,8 +647,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -640,8 +665,6 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
-(manuscript/preliminary_pages/dedication.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
@@ -649,7 +672,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
  [3
 
 
-]
+])
+(manuscript/preliminary_pages/dedication.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: letterpaper
@@ -664,8 +688,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -682,15 +706,15 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
-(manuscript/preliminary_pages/acknowledgments.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [4
 
-]
+
+])
+(manuscript/preliminary_pages/acknowledgments.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: letterpaper
@@ -705,8 +729,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -723,15 +747,15 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
-(manuscript/preliminary_pages/abstract.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [5
 
-]
+
+])
+(manuscript/preliminary_pages/abstract.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: letterpaper
@@ -746,8 +770,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -764,15 +788,15 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
-(manuscript/preliminary_pages/table-of-contents.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [6
 
-]
+
+])
+(manuscript/preliminary_pages/table-of-contents.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: letterpaper
@@ -787,8 +811,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -809,15 +833,15 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-)
-(manuscript/preliminary_pages/list-of-tables.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [7
 
-]
+
+])
+(manuscript/preliminary_pages/list-of-tables.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: letterpaper
@@ -832,8 +856,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -850,15 +874,15 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
-(manuscript/preliminary_pages/list-of-figures.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [8
 
-]
+
+])
+(manuscript/preliminary_pages/list-of-figures.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: letterpaper
@@ -873,8 +897,8 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \textheight=625.13507pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-61.42882pt
-* \headheight=57.81621pt
+* \topmargin=-68.65517pt
+* \headheight=65.04256pt
 * \headsep=28.90755pt
 * \topskip=12.0pt
 * \footskip=36.135pt
@@ -891,28 +915,122 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [9
 
-] (main.aux)
+
+])
+(manuscript/chapters/chapter_1/chapter-1-main.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(112.0187pt, 610.68129pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=610.68129pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-61.42882pt
+* \headheight=72.26999pt
+* \headsep=28.90755pt
+* \topskip=12.0pt
+* \footskip=36.135pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(manuscript/chapters/chapter_1/sections/01-project-context.tex
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [1
+
+
+])
+(manuscript/chapters/chapter_1/sections/02-purpose-and-description.tex
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [2]
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+
+[3]) (manuscript/chapters/chapter_1/sections/03-objectives.tex)
+(manuscript/chapters/chapter_1/sections/04-significance.tex
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [4]
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [5])
+(manuscript/chapters/chapter_1/sections/05-scope-and-limitation.tex
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [6])
+(manuscript/chapters/chapter_1/sections/06-project-dictionary.tex
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [7]
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [8]
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+
+[9])
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [10] (manuscript/chapters/chapter_1/sections/07-notes.tex)) (main.aux)
  ***********
 LaTeX2e <2026-11-01>
 L3 programming layer <2026-09-09>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E78B36A676451945F5041C1A17BD3CB5;1685.
+(rerunfilecheck)             Checksum: 2CF111BD867F4E7E3DC8902EDEA841DA;3182.
  ) 
 Here is how much of TeX's memory you used:
- 12192 strings out of 402429
- 241993 string characters out of 5433152
- 712214 words of memory out of 5000000
- 41304 multiletter control sequences out of 15000+600000
+ 12914 strings out of 402429
+ 256605 string characters out of 5433152
+ 731193 words of memory out of 5000000
+ 41991 multiletter control sequences out of 15000+600000
  631737 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 76i,16n,96p,857b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 76i,17n,96p,1445b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (9 pages).
+Output written on main.pdf (19 pages).
