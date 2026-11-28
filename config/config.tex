@@ -21,6 +21,12 @@
     footskip=0.5in
 ]{geometry}
 
+\usepackage[absolute,overlay]{textpos}
+
+\setlength{\TPHorizModule}{1bp}
+\setlength{\TPVertModule}{1bp}
+\textblockorigin{0bp}{0bp}
+
 \hbadness=10000
 
 % Unnumbered layout
@@ -60,3 +66,7 @@
 \setmainfont{Times New Roman}
 
 \onehalfspacing
+
+\newcommand{\OptionalAuthor}[1]{%
+    \ifdefempty{#1}{}{, #1}%
+}
