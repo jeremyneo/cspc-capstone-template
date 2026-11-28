@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.11.27)  28 NOV 2026 09:22
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.11.27)  28 NOV 2026 09:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -104,6 +104,27 @@ Package: hyphenat 2026/10/12 v2.3d hyphenation utilities
 \langwohyphens=\language79
 LaTeX Info: Redefining \_ on input line 44.
 )
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2026-06-01 v2.12a `tabularx' package (DPC)
+
+(C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2026/06/26 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen156
+\ar@mcellbox=\box53
+\extrarowheight=\dimen157
+\NC@list=\toks19
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen158
+\TX@old@table=\dimen159
+\TX@old@col=\dimen160
+\TX@target=\dimen161
+\TX@delta=\dimen162
+\TX@cols=\count293
+\TX@ftn=\toks20
+)
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2026-11-03 v7.01t Hypertext links for LaTeX
 
@@ -153,22 +174,22 @@ Package: gettitlestring 2026/10/27 v1.6a Cleanup title references (HO)
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2026-10-27 v3.17 Key value format for package options (HO)
 ))
-\c@section@level=\count293
+\c@section@level=\count294
 )
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
 ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen156
-\Hy@linkcounter=\count294
-\Hy@pagecounter=\count295
+\@linkdim=\dimen163
+\Hy@linkcounter=\count295
+\Hy@pagecounter=\count296
  (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2026-11-03 v7.01t Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count296
+\Hy@SavedSpaceFactor=\count297
  (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2026-11-03 v7.01t Hyperref: PDF Unicode definition (HO)
 )
@@ -183,14 +204,14 @@ Package hyperref Info: Plain pages OFF on input line 4214.
 Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4466.
-\c@Hy@tempcnt=\count297
+\c@Hy@tempcnt=\count298
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4805.
-\XeTeXLinkMargin=\dimen157
+\XeTeXLinkMargin=\dimen164
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -200,9 +221,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count298
-\Field@Width=\dimen158
-\Fld@charsize=\dimen159
+\Fld@menulength=\count299
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
 Package hyperref Info: Hyper figures OFF on input line 6091.
 Package hyperref Info: Link nesting OFF on input line 6096.
 Package hyperref Info: Hyper index ON on input line 6099.
@@ -210,19 +231,19 @@ Package hyperref Info: backreferencing OFF on input line 6106.
 Package hyperref Info: Link coloring OFF on input line 6111.
 Package hyperref Info: Link coloring with OCG OFF on input line 6116.
 Package hyperref Info: PDF/A mode OFF on input line 6121.
-\Hy@abspage=\count299
-\c@Item=\count300
-\c@Hfootnote=\count301
+\Hy@abspage=\count300
+\c@Item=\count301
+\c@Hfootnote=\count302
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2026-11-03 v7.01t Hyperref driver for XeTeX
-\pdfm@box=\box53
-\c@Hy@AnnotLevel=\count302
-\HyField@AnnotCount=\count303
-\Fld@listcount=\count304
-\c@bookmark@seq@number=\count305
+\pdfm@box=\box55
+\c@Hy@AnnotLevel=\count303
+\HyField@AnnotCount=\count304
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -235,7 +256,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip65
+\Hy@SectionHShift=\skip67
 )
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/11/15 v6.2 Page Geometry
@@ -243,35 +264,35 @@ Package: geometry 2026/11/15 v6.2 Page Geometry
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2026/10/27 v1.7 ifvtex compatibility package
 )
-\Gm@cnth=\count306
-\Gm@cntv=\count307
-\c@Gm@tempcnt=\count308
-\Gm@bindingoffset=\dimen160
-\Gm@wd@mp=\dimen161
-\Gm@odd@mp=\dimen162
-\Gm@even@mp=\dimen163
-\Gm@layoutwidth=\dimen164
-\Gm@layoutheight=\dimen165
-\Gm@layouthoffset=\dimen166
-\Gm@layoutvoffset=\dimen167
-\Gm@dimlist=\toks19
+\Gm@cnth=\count307
+\Gm@cntv=\count308
+\c@Gm@tempcnt=\count309
+\Gm@bindingoffset=\dimen167
+\Gm@wd@mp=\dimen168
+\Gm@odd@mp=\dimen169
+\Gm@even@mp=\dimen170
+\Gm@layoutwidth=\dimen171
+\Gm@layoutheight=\dimen172
+\Gm@layouthoffset=\dimen173
+\Gm@layoutvoffset=\dimen174
+\Gm@dimlist=\toks21
 
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box54
-\TP@holdbox=\box55
-\TPHorizModule=\dimen168
-\TPVertModule=\dimen169
-\TP@margin=\dimen170
-\TP@absmargin=\dimen171
+\TP@textbox=\box56
+\TP@holdbox=\box57
+\TPHorizModule=\dimen175
+\TPVertModule=\dimen176
+\TP@margin=\dimen177
+\TP@absmargin=\dimen178
 
 Grid set 16 x 16 = 38.39343pt x 49.68562pt
-\TPboxrulesize=\dimen172
-\TP@ox=\dimen173
-\TP@oy=\dimen174
-\TP@tbargs=\toks20
+\TPboxrulesize=\dimen179
+\TP@ox=\dimen180
+\TP@oy=\dimen181
+\TP@tbargs=\toks22
 TextBlockOrigin set to 0pt x 0pt
 )
 TextBlockOrigin set to 0bp x 0bp
@@ -313,9 +334,9 @@ text;"
 (C:\Users\jerem\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-xete
 x.def
 File: l3backend-xetex.def 2026-09-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count309
-\g__pdfannot_backend_int=\count310
-\g__pdfannot_backend_link_int=\count311
+\g__graphics_track_int=\count310
+\g__pdfannot_backend_int=\count311
+\g__pdfannot_backend_link_int=\count312
 ) (main.aux)
 \openout1 = `main.aux'.
 
@@ -649,11 +670,52 @@ File: config/images/ccs-logo.pdf Graphic file (type pdf)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 )
+(manuscript/preliminary_pages/abstract.tex
 File: config/images/cspc-logo.pdf Graphic file (type pdf)
 <use config/images/cspc-logo.pdf>
 File: config/images/ccs-logo.pdf Graphic file (type pdf)
 <use config/images/ccs-logo.pdf>
  [5
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(97.56493pt, 625.13507pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=625.13507pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-61.42882pt
+* \headheight=57.81621pt
+* \headsep=28.90755pt
+* \topskip=12.0pt
+* \footskip=36.135pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+)
+File: config/images/cspc-logo.pdf Graphic file (type pdf)
+<use config/images/cspc-logo.pdf>
+File: config/images/ccs-logo.pdf Graphic file (type pdf)
+<use config/images/ccs-logo.pdf>
+ [6
 
 ] (main.aux)
  ***********
@@ -661,15 +723,15 @@ LaTeX2e <2026-11-01>
 L3 programming layer <2026-09-09>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F0D9C03F5D49EE417B57C192F8354B86;583.
+(rerunfilecheck)             Checksum: 7FBDBB0472D138421201FCD65CF4623F;666.
  ) 
 Here is how much of TeX's memory you used:
- 11629 strings out of 402429
- 232199 string characters out of 5433152
- 696745 words of memory out of 5000000
- 40766 multiletter control sequences out of 15000+600000
+ 11770 strings out of 402429
+ 234475 string characters out of 5433152
+ 701933 words of memory out of 5000000
+ 40900 multiletter control sequences out of 15000+600000
  631737 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 76i,16n,96p,564b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 76i,16n,96p,574b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (5 pages).
+Output written on main.pdf (6 pages).
