@@ -2,6 +2,7 @@
 \usepackage{setspace}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
+\usepackage{etoolbox}
 \usepackage[none]{hyphenat}
 
 \usepackage[
@@ -26,6 +27,8 @@
 \setlength{\TPHorizModule}{1bp}
 \setlength{\TPVertModule}{1bp}
 \textblockorigin{0bp}{0bp}
+
+
 
 \hbadness=10000
 
@@ -69,4 +72,12 @@
 
 \newcommand{\OptionalAuthor}[1]{%
     \ifdefempty{#1}{}{, #1}%
+}
+
+\newcommand{\OptionalAuthorCoverPage}[1]{%
+    \ifdefempty{#1}{}{#1\par}%
+}
+
+\newcommand{\HorizontalLine}{%
+    \par\noindent\rule{\textwidth}{1bp}\par
 }

@@ -6,35 +6,47 @@
 \pdfbookmark[0]{Approval Page}{approval-page}
 \centerBold{APPROVAL PAGE}
 
-\indentParagraph{In partial fulfillment of the requirements for the degree of Bachelor of Science in Information Systems, this research entitled LOREM IPSUM DOLOR SIT AMET CONSECTETUR ADIPISCING ELIT NUNC SCELERISQUE HENDRERIT FRINGILLA prepared and submitted by Author Name 1, Author Name 2 , Author Name 3 has been examined and is recommended for approval and acceptance.}
+\indentParagraph{In partial fulfillment of the requirements for the degree of Bachelor of Science in Information Systems, this research entitled \MakeUppercase{\CapstoneTitle} prepared and submitted by \AuthorOne \OptionalAuthor{\AuthorTwo} \OptionalAuthor{\AuthorThree} \OptionalAuthor{\AuthorFour} \OptionalAuthor{\AuthorFive} has been examined and is recommended for approval and acceptance.}
 
-\vspace{\baselineskip}
+\begin{textblock*}{\textwidth}[0,1](1.5in,\dimexpr0.5\paperheight-20bp\relax)
+    \centerBoldUnderline{\MakeUppercase{\AdviserName}}
+    \centerText{Adviser}
+\end{textblock*}
 
-\centerBoldUnderline{ADVISER NAME}
-\centerText{Adviser}
+\begin{textblock*}{\textwidth}[0,0.5](1.5in,0.5\paperheight)
+    \noindent\rule{\textwidth}{1.5bp}\par
+\end{textblock*}
 
-\horizontalLine
+\begin{textblock*}{\textwidth}[0,0](1.5in,\dimexpr0.5\paperheight+20bp\relax)
+    \indentParagraph{This research project entitled,
+    \MakeUppercase{\CapstoneTitle}, in partial fulfillment
+    of the requirements for the degree of Bachelor of
+    Science in Information Systems has been examined and
+    is recommended for acceptance and approval for
+    ORAL EXAMINATION.}
+\end{textblock*}
 
-\indentParagraph{This research project entitled, LOREM IPSUM DOLOR SIT AMET CONSECTET ADIPISCING ELIT NUNC SCELERISQUE HENDRERIT FRINGILLA, in partial fulfillment of the requirements for the degree of Bachelor of Science in Information Systems has been examined and is recommended for acceptance and approval for ORAL EXAMINATION}
+\vfill
 
-\vspace{\baselineskip}
+\noindent
+\begin{minipage}{\textwidth}
+    \centerBold{RESEARCH COMMITTEE:}
 
-\centerBold{RESEARCH COMMITTEE:}
+    \begin{center}
+        \singlespacing
+        \setlength{\tabcolsep}{0pt}
 
-\vspace{\baselineskip}
+        \begin{tabular}{cc}
+            \makebox[0.5\textwidth]{\MakeUppercase{\textbf{\underline{\PanelMemberOne}}}} &
+            \makebox[0.5\textwidth]{\MakeUppercase{\textbf{\underline{\PanelMemberTwo}}}} \\[5bp]
 
-\begin{center}
-    \singlespacing
-    \setlength{\tabcolsep}{0pt}
+            Member & Member \\[30bp]
 
-    \begin{tabular}{cc}
-        \makebox[0.5\textwidth]{\textbf{\underline{PANEL MEMBER 1}}} &
-        \makebox[0.5\textwidth]{\textbf{\underline{PANEL MEMBER 2}}} \\[5bp]
+            \multicolumn{2}{c}{\MakeUppercase{\textbf{\underline{\PanelChair}}}} \\[5bp]
 
-        Member & Member \\[50bp]
+            \multicolumn{2}{c}{Chairman}
+        \end{tabular}
+    \end{center}
+\end{minipage}
 
-        \multicolumn{2}{c}{\textbf{\underline{PANEL CHAIR}}} \\[5bp]
-
-        \multicolumn{2}{c}{Chairman}
-    \end{tabular}
-\end{center}
+\clearpage
