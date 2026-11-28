@@ -1,0 +1,9 @@
+\contentsline {section}{\MakeUppercase []{Information Systems Strategic Plan for the use of ICT in Government Service Provision of the Local Government Unit of Polangui Albay}}{i}{section*.2}%
+\contentsline {section}{APPROVAL PAGE}{ii}{section*.3}%
+\contentsline {section}{PANEL OF EXAMINERS}{iii}{section*.4}%
+\contentsline {section}{DEDICATION}{iv}{section*.5}%
+\contentsline {section}{ACKNOWLEDGMENTS}{v}{section*.6}%
+\contentsline {section}{ABSTRACT}{vi}{section*.7}%
+\contentsline {section}{TABLE OF CONTENTS}{vii}{section*.8}%
+\contentsline {section}{LIST OF TABLES}{viii}{section*.9}%
+\contentsline {section}{LIST OF FIGURES}{ix}{section*.10}%

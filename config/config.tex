@@ -5,6 +5,8 @@
 \usepackage{etoolbox}
 \usepackage[none]{hyphenat}
 \usepackage{tabularx}
+\usepackage{tocloft}
+\usepackage{ragged2e}
 
 \usepackage[
     hidelinks,
@@ -69,7 +71,15 @@
 
 \setmainfont{Times New Roman}
 
-\onehalfspacing
+\newcommand{\PreliminaryTitle}[2][true]{%
+    \phantomsection
+    \addcontentsline{toc}{section}{#2}%
+    \ifstrequal{#1}{true}{%
+        \centerBold{\MakeUppercase{#2}}%
+    }{}%
+}
+
+\usepackage{tocloft}
 
 \newcommand{\OptionalAuthor}[1]{%
     \ifdefempty{#1}{}{, #1}%

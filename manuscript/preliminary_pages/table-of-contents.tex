@@ -1,0 +1,54 @@
+% !TeX root = ../../main.tex
+
+\preliminarylayout
+\doublespacing
+
+\phantomsection
+\addcontentsline{toc}{section}{TABLE OF CONTENTS}
+
+% Table of Contents title
+\renewcommand{\contentsname}{TABLE OF CONTENTS}
+
+% Title formatting
+\renewcommand{\cfttoctitlefont}{\hfill\normalsize\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}
+
+% Page style
+\tocloftpagestyle{preliminary}
+
+% Entry formatting
+\renewcommand{\cftsecfont}{\normalfont}
+\renewcommand{\cftsecpagefont}{\normalfont}
+
+% Dotted lines
+\renewcommand{\cftdotsep}{0.1}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+% Title spacing
+\setlength{\cftbeforetoctitleskip}{0bp}
+\setlength{\cftaftertoctitleskip}{\baselineskip}
+
+% Section
+\setlength{\cftbeforesecskip}{0bp}
+\setlength{\cftsecindent}{0bp}
+\setlength{\cftsecnumwidth}{0bp}
+
+% Subsection
+\setlength{\cftsubsecindent}{20bp}
+\setlength{\cftsubsecnumwidth}{30bp}
+
+% Subsubsection
+\setlength{\cftsubsubsecindent}{40bp}
+\setlength{\cftsubsubsecnumwidth}{40bp}
+
+% Right margin and page number allocation
+\cftsetpnumwidth{20bp}
+\cftsetrmarg{20bp}
+
+% Generate Table of Contents
+\begingroup
+    \justifying
+    \setlength{\emergencystretch}{3em}
+    \tolerance=2000
+    \tableofcontents
+\endgroup
