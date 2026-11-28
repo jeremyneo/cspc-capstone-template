@@ -6,31 +6,38 @@
 \pdfbookmark[0]{Panel of Examiners}{panel-of-examiners}     
 \centerBold{PANEL OF EXAMINERS}
 
-\indentParagraph{APPROVED by the Committee on Oral Examination with a grade of PASSED on [ADD FOD DATE HERE].}
+\indentParagraph{APPROVED by the Committee on Oral Examination with a grade of PASSED on \FODDate.}
 
-\begin{center}
+
+\begin{textblock*}{\textwidth}[0,1](1.5in,\dimexpr0.5\paperheight-20bp\relax)
+    \begin{center}
     \singlespacing
     \setlength{\tabcolsep}{0pt}
 
     \begin{tabular}{cc}
-        \multicolumn{2}{c}{\textbf{\underline{PANEL CHAIR}}} \\[5bp]
+        \multicolumn{2}{c}{\textbf{\underline{\PanelChair}}} \\[5bp]
 
         \multicolumn{2}{c}{Chairman} \\[50bp]
 
-        \makebox[0.5\textwidth]{\textbf{\underline{PANEL MEMBER 1}}} &
-        \makebox[0.5\textwidth]{\textbf{\underline{PANEL MEMBER 2}}} \\[5bp]
+        \makebox[0.5\textwidth]{\textbf{\underline{\PanelMemberOne}}} &
+        \makebox[0.5\textwidth]{\textbf{\underline{\PanelMemberTwo}}} \\[5bp]
 
         Member & Member
     \end{tabular}
 \end{center}
+\end{textblock*}
 
-\horizontalLine
 
-\vspace{\baselineskip}
 
-\indentParagraph{ACCEPTED and APPROVED in partial fulfillment of the requirements in Bachelor of Science in Information Systems with a grade of \rule{0.5in}{0.5pt}.}
+\begin{textblock*}{\textwidth}[0,0.5](1.5in,0.5\paperheight)
+    \noindent\rule{\textwidth}{1.5bp}\par
+\end{textblock*}
 
-\vspace{3\baselineskip}
+\begin{textblock*}{\textwidth}[0,0](1.5in,\dimexpr0.5\paperheight+20bp\relax)
+    \indentParagraph{ACCEPTED and APPROVED in partial fulfillment of the requirements in Bachelor of Science in Information Systems with a grade of \rule{0.5in}{0.5pt}.}
+\end{textblock*}
+
+\vfill
 
 \centerBoldUnderline{ROSEL O. ONESA, Ph.D.}
 \centerText{Dean, College of Computer Studies}
